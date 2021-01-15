@@ -151,7 +151,7 @@ F 1 "SW_SPDT" H 6500 1694 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6500 1500 50  0001 C CNN
 F 3 "" H 6500 1500 50  0001 C CNN
 	1    6500 1500
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R R22
@@ -1291,12 +1291,12 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4150 2850 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R49
 U 1 1 6003E750
 P 2150 1600
-F 0 "R?" V 1943 1600 50  0000 C CNN
+F 0 "R49" V 1943 1600 50  0000 C CNN
 F 1 "100K" V 2034 1600 50  0000 C CNN
-F 2 "" V 2080 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2080 1600 50  0001 C CNN
 F 3 "~" H 2150 1600 50  0001 C CNN
 	1    2150 1600
 	0    1    1    0   
@@ -1306,12 +1306,12 @@ Wire Wire Line
 Wire Wire Line
 	2300 1600 2650 1600
 $Comp
-L Device:R R?
+L Device:R R48
 U 1 1 600CE324
 P 2100 5400
-F 0 "R?" V 2200 5400 50  0000 C CNN
+F 0 "R48" V 2200 5400 50  0000 C CNN
 F 1 "100K" V 2000 5400 50  0000 C CNN
-F 2 "" V 2030 5400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2030 5400 50  0001 C CNN
 F 3 "~" H 2100 5400 50  0001 C CNN
 	1    2100 5400
 	0    -1   -1   0   

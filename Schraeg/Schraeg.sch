@@ -151,7 +151,7 @@ F 1 "SW_SPDT" H 6500 1694 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6500 1500 50  0001 C CNN
 F 3 "" H 6500 1500 50  0001 C CNN
 	1    6500 1500
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R R22
@@ -989,7 +989,7 @@ F 1 "SW_SPDT" V 5955 5812 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6000 6000 50  0001 C CNN
 F 3 "" H 6000 6000 50  0001 C CNN
 	1    6000 6000
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L Device:R R20
@@ -1151,7 +1151,7 @@ F 1 "SW_SPDT" H 5000 5494 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5000 5300 50  0001 C CNN
 F 3 "" H 5000 5300 50  0001 C CNN
 	1    5000 5300
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	1800 4300 4000 4300

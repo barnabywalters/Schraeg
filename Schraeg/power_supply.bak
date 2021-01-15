@@ -70,7 +70,7 @@ AR Path="/5DA7E231" Ref="D?"  Part="1"
 AR Path="/5DA7C710/5DA7E231" Ref="D6"  Part="1" 
 F 0 "D6" V 3154 3428 50  0000 L CNN
 F 1 "LM4040DCK-5" V 3245 3428 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-353_SC-70-5" H 3200 3150 50  0001 C CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 3200 3150 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 3200 3350 50  0001 C CIN
 	1    3200 3350
 	0    1    1    0   
@@ -195,7 +195,7 @@ AR Path="/5DA7E272" Ref="D?"  Part="1"
 AR Path="/5DA7C710/5DA7E272" Ref="D4"  Part="1" 
 F 0 "D4" V 1396 3263 50  0000 R CNN
 F 1 "LM4040DCK-5" V 1305 3263 50  0000 R CNN
-F 2 "Package_TO_SOT_SMD:SOT-353_SC-70-5" H 1350 3150 50  0001 C CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 1350 3150 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 1350 3350 50  0001 C CIN
 	1    1350 3350
 	0    -1   -1   0   
