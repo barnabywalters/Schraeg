@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Eurocad)(type KiCad)(uri "/Users/barnabywalters/Documents/KiCad Parts/Eurocad.pretty")(options "")(descr ""))
+  (lib (name Schraeg)(type KiCad)(uri "/Users/barnabywalters/Documents/Electronics/Synth DIY/8HP Cinnamon Remix/Schraeg")(options "")(descr ""))
+)

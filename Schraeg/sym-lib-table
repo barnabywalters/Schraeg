@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name eurocad)(type Legacy)(uri "/Users/barnabywalters/Documents/KiCad Parts/eurocad.lib")(options "")(descr ""))
+  (lib (name P170)(type Legacy)(uri "/Users/barnabywalters/Documents/KiCad Parts/P170.lib")(options "")(descr ""))
+  (lib (name v2164)(type Legacy)(uri "/Users/barnabywalters/Documents/KiCad Parts/v2164.lib")(options "")(descr ""))
+)
