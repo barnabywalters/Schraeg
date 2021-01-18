@@ -15,6 +15,7 @@ This disclaimer will be removed or updated when I or someone else successfully b
 * [Schematic](Schraeg/Schraeg.pdf)
 * [Gerbers](Schraeg/output)
 * [BOM](Schraeg/Schraeg%20BOM.csv)
+* [Schräg on ModularGrid](https://www.modulargrid.net/e/other-unknown-schraeg)
 
 ## Features
 
