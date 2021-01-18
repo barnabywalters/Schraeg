@@ -14,8 +14,8 @@ This disclaimer will be removed or updated when I or someone else successfully b
 
 * [Schematic](Schraeg/Schraeg.pdf)
 * [Gerbers](Schraeg/output)
-* [BOM](Schraeg/Schraeg BOM.csv)
-* [Interactive BOM](Schraeg/output/Interactive BOM.html)
+* [BOM](Schraeg/Schraeg\ BOM.csv)
+* [Interactive BOM](Schraeg/output/Interactive\ BOM.html)
 
 ## Features
 
