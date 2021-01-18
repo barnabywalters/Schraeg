@@ -15,7 +15,6 @@ This disclaimer will be removed or updated when I or someone else successfully b
 * [Schematic](Schraeg/Schraeg.pdf)
 * [Gerbers](Schraeg/output)
 * [BOM](Schraeg/Schraeg%20BOM.csv)
-* [Interactive BOM](Schraeg/output/Interactive%20BOM.html)
 
 ## Features
 
@@ -36,6 +35,7 @@ with a few modifications:
 * FM input through an attenuverter, which works as a pitch fine-tune control with nothing patched
 * Larger character and gain switches
 * A bi-directional power connector, with polyfuses
+* An Interactive BOM (`Schraeg/Output/Interactive BOM.html` once you’ve cloned the repo locally) to aid in part placement
 
 The additional functionality is achieved with a minimum of extra components, thanks to the two unused VCA cells in the original design.
 
