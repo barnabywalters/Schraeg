@@ -2,7 +2,7 @@
 
 Schräg is an 8HP multimode filter module for the eurorack format, based off the [Bastl Cinnamon](https://bastl-instruments.com/eurorack/modules/cinnamon).
 
-![](img/Schraeg-finished.jpeg)
+<img src="img/Schraeg-finished.jpeg" alt="" width="200" />
 
 ## LARGE WARNING AND DISCLAIMER!
 
@@ -12,10 +12,10 @@ This disclaimer will be removed or updated when I or someone else successfully b
 
 ## Quick links
 
-* [Schematic]()
-* [Gerbers]()
-* [BOM]()
-* [Interactive BOM]()
+* [Schematic](Schraeg/Schraeg.pdf)
+* [Gerbers](Schraeg/output)
+* [BOM](Schraeg/Schraeg BOM.csv)
+* [Interactive BOM](Schraeg/output/Interactive BOM.html)
 
 ## Features
 
@@ -45,7 +45,7 @@ The schematic, board layout and graphics are released under a cc-by-sa license. 
 
 ## Development
 
-In 2019 I was looking through the [Bastl Cinnamon schematic]() and realised that it only uses two of the four available V2164D VCA cells.
+In 2019 I was looking through the [Bastl Cinnamon schematic](https://github.com/bastl-instruments/bastlSchematics/blob/master/CINNAMON_V1.2.pdf) and realised that it only uses two of the four available V2164D VCA cells.
 
 At the time I needed PCB layout practise (and a filter module for my DIY eurorack!), so I ended up prototyping and building an 8HP version of cinnamon for myself which uses the two spare cells to implement voltage control over resonance, as well as a few other little additions listed above.
 
