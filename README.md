@@ -50,6 +50,6 @@ In 2019 I was looking through the [Bastl Cinnamon schematic](https://github.com/
 
 At the time I needed PCB layout practise (and a filter module for my DIY eurorack!), so I ended up prototyping and building an 8HP version of cinnamon for myself which uses the two spare cells to implement voltage control over resonance, as well as a few other little additions listed above.
 
-I called it “Schräg” because of both the angled panel design, the weird sounds possible with your cool distortion circuits, and the strange way KiCAD mangled the panel graphics.
+I called it “Schräg” because of both the angled panel design, the weird sounds possible with Bastl’s cool distortion circuits, and the strange way KiCAD mangled the panel graphics.
 
 A bit more than a year after building the first Schräg, I finally got around to fixing the various small issues with the first board revision, and asking Bastl if they were okay with me open-sourcing the project. They were, and here we are.
