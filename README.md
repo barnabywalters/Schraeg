@@ -37,6 +37,7 @@ with a few modifications:
 * Larger character and gain switches
 * A bi-directional power connector, with polyfuses
 * An Interactive BOM (`Schraeg/Output/Interactive BOM.html` once you’ve cloned the repo locally) to aid in part placement
+* Schematics and PCB laid out using KiCAD
 
 The additional functionality is achieved with a minimum of extra components, thanks to the two unused VCA cells in the original design.
 
