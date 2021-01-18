@@ -23,8 +23,8 @@ Schräg is effectively a repackaged Bastl Cinnamon:
 
 * Multimode filter with independent outputs (2-pole LP, 2-pole HP, 1-pole BP)
 * V/oct input
-* Self resonates for use as a sine oscillator
-* Input with an attenuator and +5dB gain switch
+* Self-resonates for use as a sine oscillator
+* Input with an attenuator and 5x gain switch
 * Two character switches for altering the resonance tracking
 * All-SMD construction in a DIY-friendly format, with 0603 handsoldering footprints, all components on the back of the circuit board
 * Built mostly using standard and easily-available components
