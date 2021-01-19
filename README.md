@@ -31,10 +31,9 @@ Schräg is effectively a repackaged Bastl Cinnamon:
 
 with a few modifications:
 
-* larger 8HP form factor, allowing for a big juicy cutoff knob
+* larger 8HP form factor, allowing for a big juicy cutoff knob and larger character and gain switches
 * Voltage control over resonance, through an attenuverter
 * FM input through an attenuverter, which works as a pitch fine-tune control with nothing patched
-* Larger character and gain switches
 * A bi-directional power connector, with polyfuses
 * An Interactive BOM (`Schraeg/Output/Interactive BOM.html` once you’ve cloned the repo locally) to aid in part placement
 * Schematics and PCB laid out using KiCAD
