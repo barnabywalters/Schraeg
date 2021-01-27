@@ -23,20 +23,20 @@ Schräg is effectively a repackaged Bastl Cinnamon:
 
 * Multimode filter with independent outputs (2-pole LP, 2-pole HP, 1-pole BP)
 * V/oct input
-* Self resonates for use as a sine oscillator
-* Input with an attenuator and +5dB gain switch
+* Self-resonates for use as a sine oscillator
+* Input with an attenuator and 5x gain switch
 * Two character switches for altering the resonance tracking
 * All-SMD construction in a DIY-friendly format, with 0603 handsoldering footprints, all components on the back of the circuit board
 * Built mostly using standard and easily-available components
 
 with a few modifications:
 
-* larger 8HP form factor, allowing for a big juicy cutoff knob
+* larger 8HP form factor, allowing for a big juicy cutoff knob and larger character and gain switches
 * Voltage control over resonance, through an attenuverter
 * FM input through an attenuverter, which works as a pitch fine-tune control with nothing patched
-* Larger character and gain switches
 * A bi-directional power connector, with polyfuses
 * An Interactive BOM (`Schraeg/Output/Interactive BOM.html` once you’ve cloned the repo locally) to aid in part placement
+* Schematics and PCB laid out using KiCAD
 
 The additional functionality is achieved with a minimum of extra components, thanks to the two unused VCA cells in the original design.
 
@@ -50,6 +50,6 @@ In 2019 I was looking through the [Bastl Cinnamon schematic](https://github.com/
 
 At the time I needed PCB layout practise (and a filter module for my DIY eurorack!), so I ended up prototyping and building an 8HP version of cinnamon for myself which uses the two spare cells to implement voltage control over resonance, as well as a few other little additions listed above.
 
-I called it “Schräg” because of both the angled panel design, the weird sounds possible with your cool distortion circuits, and the strange way KiCAD mangled the panel graphics.
+I called it “Schräg” because of both the angled panel design, the weird sounds possible with Bastl’s cool distortion circuits, and the strange way KiCAD mangled the panel graphics.
 
 A bit more than a year after building the first Schräg, I finally got around to fixing the various small issues with the first board revision, and asking Bastl if they were okay with me open-sourcing the project. They were, and here we are.
