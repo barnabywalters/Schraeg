@@ -40,7 +40,7 @@ Scrape a few millimetres of copper away completely, and then scrape pads clear f
 
 Populate the resistors, and use a multimeter to check that the traces have successfully been replaced with 100k resistances.
 
-![](schraeg-2019-v0.2-missing-resistors-populated.jpeg)
+![](/img/schraeg-2019-v0.2-missing-resistors-populated.jpeg)
 
 ## Miscellaneous Changes
 
