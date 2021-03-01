@@ -4,11 +4,9 @@ Schräg is an 8HP multimode filter module for the eurorack format, based off the
 
 <img src="img/Schraeg-finished.jpeg" alt="" width="200" />
 
-## LARGE WARNING AND DISCLAIMER!
+## Smaller Warning and Disclaimer
 
-The current version of the schematic and board files are **UNTESTED**. I ordered a run of the first revision of my board and built one module, then corrected the various small issues from the initial design in the current files. The DRC passes, but I **HAVE NOT ORDERED OR BUILT THE CURRENT VERSION OF THE BOARDS** so cannot guarantee that they work.
-
-This disclaimer will be removed or updated when I or someone else successfully builds a Schräg based on the new board layout. Please let me know if you do so!
+As of 2021-03-01, at least one person has reported successfully building the current board revision. However, another builder reported a minor issue with the attenuverter circuits which prevents full-range voltage control over resonance (and limits voltage control over FM). This should be fixable only with component substitutions, we’re working on a fix. More information and updates [in the corresponding lines thread](https://llllllll.co/t/diy-module-release-schrag-bastl-cinnamon-rework/40590).
 
 ## Quick links
 
