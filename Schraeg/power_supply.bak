@@ -63,19 +63,6 @@ $EndComp
 Wire Wire Line
 	2150 3200 2150 3100
 $Comp
-L Reference_Voltage:LM4040DCK-5 D?
-U 1 1 5DA7E231
-P 3200 3350
-AR Path="/5DA7E231" Ref="D?"  Part="1" 
-AR Path="/5DA7C710/5DA7E231" Ref="D6"  Part="1" 
-F 0 "D6" V 3154 3428 50  0000 L CNN
-F 1 "LM4040DCK-5" V 3245 3428 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 3200 3150 50  0001 C CIN
-F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 3200 3350 50  0001 C CIN
-	1    3200 3350
-	0    1    1    0   
-$EndComp
-$Comp
 L Device:R R?
 U 1 1 5DA7E238
 P 3200 2850
@@ -187,19 +174,6 @@ $EndComp
 Connection ~ 3500 3100
 Wire Wire Line
 	3500 3100 3700 3100
-$Comp
-L Reference_Voltage:LM4040DCK-5 D?
-U 1 1 5DA7E272
-P 1350 3350
-AR Path="/5DA7E272" Ref="D?"  Part="1" 
-AR Path="/5DA7C710/5DA7E272" Ref="D4"  Part="1" 
-F 0 "D4" V 1396 3263 50  0000 R CNN
-F 1 "LM4040DCK-5" V 1305 3263 50  0000 R CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 1350 3150 50  0001 C CIN
-F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 1350 3350 50  0001 C CIN
-	1    1350 3350
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Device:R R?
 U 1 1 5DA7E279
@@ -877,4 +851,26 @@ $EndComp
 Connection ~ 3850 1900
 Wire Wire Line
 	3850 1900 4550 1900
+$Comp
+L Reference_Voltage:LM4040DBZ-5 D6
+U 1 1 60B20A30
+P 3200 3350
+F 0 "D6" V 3154 3429 50  0000 L CNN
+F 1 "LM4040DBZ-5" V 3245 3429 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3200 3150 50  0001 C CIN
+F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 3200 3350 50  0001 C CIN
+	1    3200 3350
+	0    1    1    0   
+$EndComp
+$Comp
+L Reference_Voltage:LM4040DBZ-5 D4
+U 1 1 60B343BC
+P 1350 3350
+F 0 "D4" V 1396 3262 50  0000 R CNN
+F 1 "LM4040DBZ-5" V 1305 3262 50  0000 R CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1350 3150 50  0001 C CIN
+F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 1350 3350 50  0001 C CIN
+	1    1350 3350
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
