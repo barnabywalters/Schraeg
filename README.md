@@ -8,6 +8,8 @@ Schräg is an 8HP multimode filter module for the eurorack format, based off the
 
 As of 2021-03-01, at least one person has reported successfully building the current board revision. However, another builder reported a minor issue with the attenuverter circuits which prevents full-range voltage control over resonance (and limits voltage control over FM). This should be fixable only with component substitutions, we’re working on a fix. More information and updates [in the corresponding lines thread](https://llllllll.co/t/diy-module-release-schrag-bastl-cinnamon-rework/40590).
 
+See the Changelog below for more updates and version-specific fixes.
+
 ## Quick links
 
 * [Schematic](Schraeg/Schraeg.pdf)
@@ -51,3 +53,14 @@ At the time I needed PCB layout practise (and a filter module for my DIY eurorac
 I called it “Schräg” because of both the angled panel design, the weird sounds possible with Bastl’s cool distortion circuits, and the strange way KiCAD mangled the panel graphics.
 
 A bit more than a year after building the first Schräg, I finally got around to fixing the various small issues with the first board revision, and asking Bastl if they were okay with me open-sourcing the project. They were, and here we are.
+
+## Changelog
+
+### v0.2.1
+
+* Fixed the LM4040 schematic symbols and PCB traces (#2)
+
+### v0.2
+
+* First version released to the public.
+* These boards have an issue with the LM4040 orientation (see #2). Depending on the specific LM4040s, it may not cause any problems, but if building from scratch it’s best to install them correctly the first time. To fix it, solder the LM4040s at an angle so that pin 2 (NC) gets connected to pin 3 (5V Ref or GND, depending on the LM4040)
