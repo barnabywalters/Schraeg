@@ -16,6 +16,17 @@ See the Changelog below for more updates and version-specific fixes.
 * [Gerbers](Schraeg/output)
 * [BOM](Schraeg/Schraeg%20BOM.csv)
 * [Schräg on ModularGrid](https://www.modulargrid.net/e/other-unknown-schraeg)
+* [Schräg release and Q&A thread on lines](https://llllllll.co/t/diy-module-release-schrag-bastl-cinnamon-rework/40590)
+
+## Need help assembling your Schräg?
+
+I can’t promise quick responses, but am happy to try to help out!
+
+If you’re **having trouble or need help assembling or troubleshooting** a Schräg, please start a [discussion](https://github.com/barnabywalters/Schraeg/discussions/new).
+
+If you’ve **found a specific error which needs fixing**, please file an [issue](https://github.com/barnabywalters/Schraeg/issues/new).
+
+If you’re not sure which, start a discussion, and we’ll convert it into an issue if we can distill it into a concrete problem.
 
 ## Features
 
